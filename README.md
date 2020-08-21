@@ -58,8 +58,8 @@ npm start
 npm run build
 ```
 ## Vistas: 
-* [Vista Home](https://github.com/alexisrocha/MeliMetrics/blob/dev/screenshots/vista-home.png)
-* [Vista agregar usuario](https://github.com/alexisrocha/MeliMetrics/blob/dev/screenshots/vista-home-metricas.png)
+* [Vista Home](https://github.com/alexisrocha/challenge-mercado-libre/blob/master/screenshots/home.png)
+* [Vista agregar usuario](https://github.com/alexisrocha/challenge-mercado-libre/blob/master/screenshots/agregar-usuario.png)
 
 
 

@@ -42,13 +42,18 @@ in-memory como SQLite, o sino MySQL).
 ## Instalacion:
 * Clonar el proyecto 
 ```bash
-git clone https://github.com/alexisrocha/meli-metrics
+https://github.com/alexisrocha/challenge-mercado-libre
 ```
 * Instalar las dependencias
 ```bash
 npm install
 ```
-* Para correr este proyecto ejecute
+Para correr este proyecto
+* Ejecute en el back
+```bash
+npm start
+```
+* Ejecute en el front
 ```bash
 npm run build
 ```

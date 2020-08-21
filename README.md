@@ -20,10 +20,11 @@ manual, comunicándose directamente con la API, pero se utilizan otros endpoints
 (quizás con un prefijo específico, por ejemplo: /applications/users en vez de /users).
 
 ### Objetivos
-● Crear el frontend. Debe ser una SPA, las rutas de alta, baja y modificación
+* Crear el frontend. Debe ser una SPA, las rutas de alta, baja y modificación
 deben ser distintas. Utilizar React, y la librería de UI preferida (puede ser Ant,
 por ejemplo)
-● Crear el backend en NodeJS utilizando Express. Utilizar Sequelize para la
+
+* Crear el backend en NodeJS utilizando Express. Utilizar Sequelize para la
 comunicación y modelado con la base de datos (pueden utilizar algún motor
 in-memory como SQLite, o sino MySQL).
 

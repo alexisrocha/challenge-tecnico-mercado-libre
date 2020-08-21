@@ -7,12 +7,12 @@
 sus propiedades. 
 
 * Las propiedades son: 
-** Nombre
-** Apellido
-** Número de documento
-** Legajo
-** Email
-** Domicilio
+* Nombre
+* Apellido
+* Número de documento
+* Legajo
+* Email
+* Domicilio
 
 * El sistema debe generar un id aleatorio al registrarlos en la base de datos. 
 El alta, baja o modificación de usuarios se puede realizar, aparte de este formulario

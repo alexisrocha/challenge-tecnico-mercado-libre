@@ -53,7 +53,7 @@ Para correr este proyecto
 ```bash
 npm start
 ```
-* Ejecute en el front
+* Ejecute en el front 
 ```bash
 npm run build
 ```

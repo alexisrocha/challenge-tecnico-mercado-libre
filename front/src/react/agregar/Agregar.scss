@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Proxima Nova Regular";
+  src: url("../../styles/fonts/proximanova-regular-webfont.woff") format("woff");
+}
+
+.formGroup {
+  margin: auto;
+  max-width: 30%;
+  font-size: 20px;
+}
+
+.formGroupNombre {
+  margin-top: 30px;
+}
+
+.formControl {
+  width: 50%;
+}
+
+.buttonSubmit {
+  margin-top: 30px;
+  width: 100px;
+  background: #f9f159;
+  font-size: 20px;
+  border: none;
+
+  &:hover {
+    background: #f9f159;
+  }
+}

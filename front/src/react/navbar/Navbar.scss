@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Proxima Nova Regular";
+  src: url("../../styles/fonts/proximanova-regular-webfont.woff") format("woff");
+}
+.navbar {
+  background: #f9f159;
+}
+
+.navbarBrand {
+  margin-left: 35px;
+  font-size: 25px;
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.navbarText {
+  margin-right: 130px;
+  font-size: 20px;
+}

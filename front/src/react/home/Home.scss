@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Proxima Nova Regular";
+  src: url("../../styles/fonts/proximanova-regular-webfont.woff") format("woff");
+}
+
+.buttonEditar {
+  color: black;
+  padding-top: 10px;
+  margin-left: 35px;
+}
+
+.buttonAdd {
+  color: #363733;
+  padding-left: 10px;
+}
+
+.buttonCheck {
+  border: none;
+  background-color: transparent;
+  padding-top: 20px;
+}
+
+.tablaContainer {
+  width: 95% !important;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 15px !important;
+}
+
+.linkAgregar {
+  color: #363733;
+  text-decoration: none;
+
+  &:hover {
+    color: #363733;
+    text-decoration: none;
+  }
+}

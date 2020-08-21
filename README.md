@@ -3,18 +3,18 @@
 ## Descripcion:
 
 ### Contexto:
-* Supongamos que somos el administrador de un sistema. Queremos manejar el acceso al mismo mediante un panel de ABM (alta, baja, modificación de usuarios). Este panel debe permitirnos poder agregar usuarios, eliminarlos, o editar alguna de
+Supongamos que somos el administrador de un sistema. Queremos manejar el acceso al mismo mediante un panel de ABM (alta, baja, modificación de usuarios). Este panel debe permitirnos poder agregar usuarios, eliminarlos, o editar alguna de
 sus propiedades. 
 
-* Las propiedades son: 
-- [x]Nombre
-- [x]Apellido
-- [x]Número de documento
-- [x]Legajo
-- [x]Email
-- [x]Domicilio
+Las propiedades son: 
+* Nombre
+* Apellido
+* Número de documento
+* Legajo
+* Email
+* Domicilio
 
-* El sistema debe generar un id aleatorio al registrarlos en la base de datos. 
+El sistema debe generar un id aleatorio al registrarlos en la base de datos. 
 El alta, baja o modificación de usuarios se puede realizar, aparte de este formulario
 manual, comunicándose directamente con la API, pero se utilizan otros endpoints
 (quizás con un prefijo específico, por ejemplo: /applications/users en vez de /users).

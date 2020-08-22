@@ -51,7 +51,7 @@ npm install
 Para correr este proyecto
 * Se utilizo Sequelize para la base de datos. Abrir: 
 ```bash
-PostgreSQL
+postgreSQL
 ```
 * Ejecute en el back
 ```bash

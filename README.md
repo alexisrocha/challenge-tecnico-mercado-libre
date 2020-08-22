@@ -49,6 +49,10 @@ https://github.com/alexisrocha/challenge-mercado-libre
 npm install
 ```
 Para correr este proyecto
+* Se utilizo Sequelize para la base de datos. Abrir: 
+```bash
+PostgreSQL
+```
 * Ejecute en el back
 ```bash
 npm start
